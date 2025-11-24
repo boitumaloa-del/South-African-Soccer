@@ -44,10 +44,7 @@ Visual explanation of insights compiled into PDF and Word format.
 - Run the queries to reproduce results.
 - Review CSV outputs and visuals for interpretation.
 
-  ``` (three backticks)
-<your tree>
 
----
 
  📂 Repository Structure 
 
